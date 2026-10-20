@@ -1,4 +1,4 @@
-# 🐉 Tamagotchi 1.0 - RCM
+# 🐉 Tamagotchi 1.3 - RCM
 
 Um Tamagotchi feito em **Python** com **pygame**, com visual pixel art 2D inspirado nos bichinhos virtuais clássicos. O pet anda de um lado para o outro da tela e evolui ao longo de várias fases da vida.
 
